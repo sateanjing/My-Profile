@@ -1,0 +1,93 @@
+h2{
+	text-align: center;
+}
+body{
+	background-color: beige;
+	font-family: cursive;
+	margin: 20px;
+}
+div{
+	padding: 10px;
+	margin: 10px;
+}
+nav{
+	text-align: center;
+	width: 100%;
+	display: inline;
+}
+nav ul li{
+	display: inline-block;
+	text-align: center;
+	padding: 10px;
+	font-size: 20px;
+	font-family: cursive;
+}
+nav a{
+	text-decoration: none;
+	color: black;
+}
+nav ul li a:hover{
+	color: red;
+}
+.container{
+	background-color: lightyellow;
+	border: 2px dashed black;
+}
+h1{
+	text-align: center;
+}
+#Me{
+	background-color: brown;
+	border-radius: 10px;
+	text-align: center;
+	display: inline-block;
+}
+
+
+#Me img{
+    height: 200px;
+    width: 200px;
+}
+#City{
+	background-color: lightyellow;
+	border: 2px dashed brown;
+}
+#Gallery{
+	background-color: lightyellow;
+	border-radius: 10px;
+	border: 2px dashed-brown;
+	display: inline-block;
+	margin: 30px;
+	padding: 30px;
+}
+
+div.column{
+	float: left;
+	width: 180px;
+}
+
+div.column img{
+	width: 100%;
+	height: 200px;
+}
+#Sport{
+	background-color: lightyellow;
+	border: 2px dashed brown;
+	text-align: center;
+}
+
+
+#Sport img{
+	height: 400px;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#Pet{
+	background-color: lightyellow;
+	border: dashed brown;
+}
+#Message{
+	background-color: lightyellow;
+	border: dashed black;
+}
